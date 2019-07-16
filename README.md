@@ -7,7 +7,7 @@
 * OpenCV3
 
 
-## Exmaples
+## Examples
 
 | **before**                             | **after**                               |
 | :-:                                   | :-:                                   |     
